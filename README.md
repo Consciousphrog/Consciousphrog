@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Consciousphrog, also known as Jowita Olszewska and (less formally) as Karo
+- 👋 Hi, I’m @Consciousphrog
 - 👀 I’m interested in game development, but mostly its narrative aspect as a game writer and quest designer
 - 🌱 I’m currently learning C# (since I've been working mostly in Unity) but I'd love to expand to other engines eventually!
 - 💞️ I’m looking to collaborate on projects that require any kind of narrative/story guidance - I'd be happy to help!
